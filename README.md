@@ -8,3 +8,4 @@
 ====> ./install.sh
 =====> tbrowse
 ```
+*Note: tbrowser will install w3m and python automatically*
