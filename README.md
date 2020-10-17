@@ -2,9 +2,9 @@
 **Surf the web with Termux using w3m but tbrowse lets you choose the search engine!**
 ![](demo.gif)
  ```bash
- <br />=> git clone https://github.com/Mini-Ware/tbrowse
- <br />==> cd tbrowse
- <br />===> chmod +x install.sh
- <br />====> ./install.sh
- <br />=====> tbrowse
+=> git clone https://github.com/Mini-Ware/tbrowse
+==> cd tbrowse
+===> chmod +x install.sh
+====> ./install.sh
+=====> tbrowse
 ```
