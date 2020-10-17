@@ -1,6 +1,6 @@
 # tsurf
 **Surf the web with Termux using w3m but tsurf lets you choose the search engine!**
-![](demo.gif)
+![](intro.gif)
  ```bash
 => git clone https://github.com/Mini-Ware/tsurf
 ==> cd tsurf
