@@ -8,4 +8,4 @@ $ chmod +x install.sh
 $ ./install.sh
 $ tsurf
 ```
-Note: tsurf will install w3m and python automatically
+Note: tsurf will install w3m automatically
