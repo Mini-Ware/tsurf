@@ -1,4 +1,4 @@
-# tsurf
+# Tsurf
 **Surf the web with Termux using w3m but tsurf lets you choose the search engine!**
 ![](intro.gif)
  ```bash
